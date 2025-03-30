@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Neel Patel
 
-<!--
-**pneel27/pneel27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Junior Machine Learning Engineer** | **Software Developer** | **AI Enthusiast**  
+📍 Streamwood, IL | 🎓 M.S. in Computer Science, Cleveland State University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages:** Python, Java, C/C++  
+**Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Spring Boot, Hibernate, LangChain  
+**Tools & Platforms:** ClearML, Streamlit, FAISS, Flask, React, MySQL, AWS, GCP, Docker, Git  
+**Focus Areas:** Machine Learning, Generative AI, Microservices, LLMs, Full-Stack Development  
+
+---
+
+## 🧠 Projects I'm Working On
+
+- 🤖 **LLM-powered Chatbots** – Built using LangChain, FAISS, and custom datasets for retrieval-based response generation  
+- 🧾 **Text-to-SQL AI Tool** – Natural language to SQL conversion using Gemini Pro & Streamlit  
+- ⚙️ **Scalable Backend APIs** – Robust microservice architectures with Spring Boot and cloud-native design patterns  
+
+---
+
+## 🎓 Certifications
+
+- 🧠 *Machine Learning Specialization* – Stanford University (Coursera)  
+- ☁️ *Google Cloud Professional ML Engineer* – *(In Progress)*  
+
+---
+
+## 📫 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/neelpatel2712) • [Email](mailto:patelneel2797@gmail.com)
+
+---
+
+🚀 Always curious, always building.
