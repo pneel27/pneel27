@@ -45,7 +45,7 @@ I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **C
 | [**Lung Cancer Detector (CNN Based)**](#) | Python, TensorFlow, Tkinter | A CNN-based model with GUI for classifying lung tissue DICOM images. |
 | [**IntelliLearnMate**](#) | LangChain, Flask, Llama2 | AI-driven chatbot retrieving intelligent responses via similarity search and LLM. |
 | [**SQLGenie: Text-to-SQL Converter**](#) | Gemini Pro, Streamlit, SQLite | Natural Language to SQL query converter using Generative AI. |
-| [**Smart Application Tracker**](#) | Gemini Pro, Streamlit | Resume analyzer matching resumes to job descriptions with improvement suggestions. |
+| [**Resume Matcher AI**](#) | Gemini Pro, Streamlit | Resume analyzer matching resumes to job descriptions with improvement suggestions. |
 | [**PDF AnswerBot**](#) | Java, Spring Boot, LangChain4J | Answer questions based on uploaded PDFs using vector databases and LLMs. |
 | [**QuizMaster Microservices App**](#) | Spring Boot, Eureka, API Gateway | Microservices-based quiz management application with service discovery and load balancing. |
 
