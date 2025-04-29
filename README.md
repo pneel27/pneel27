@@ -1,24 +1,56 @@
-# 👋 Hi there, I'm Neel Patel
+<h1 align="center">Hi, I'm Neel Patel 👋</h1>
 
-🎯 **Junior Machine Learning Engineer** | **Software Developer** | **AI Enthusiast**  
-📍 Streamwood, IL | 🎓 M.S. in Computer Science, Cleveland State University  
+<p align="center">
+  Software Developer | Machine Learning Engineer  | AI Enthusiast <br/>
+  ⭐️ _"Driven by curiosity, powered by code, and inspired by innovation."_
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Developer-Java%20|%20Python-blueviolet" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-brightgreen" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20GCP-orange" />
+  <img src="https://img.shields.io/badge/Frameworks-Spring%20Boot%20|%20TensorFlow-yellow" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue" />
+</p>
+---
+
+## 🚀 About Me
+
+I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **Cloud Technologies** to build scalable, intelligent, and impactful solutions.
+
+🔹 Master's in Computer Science (Cleveland State University)  
+🔹 Proficient in Java, Python, Spring Boot, TensorFlow, AWS, GCP  
+🔹 Experience in Microservices, Machine Learning, Generative AI, and Cloud Deployment  
+🔹 Enthusiastic about developing intelligent systems and solving real-world problems
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C/C++  
-**Frameworks & Libraries:** TensorFlow, PyTorch, scikit-learn, Spring Boot, Hibernate, LangChain  
-**Tools & Platforms:** ClearML, Streamlit, FAISS, Flask, React, MySQL, AWS, GCP, Docker, Git  
-**Focus Areas:** Machine Learning, Generative AI, Microservices, LLMs, Full-Stack Development  
+- 💻 **Languages:** Java, Python
+- 🧰 **Frameworks:** Spring Boot, Hibernate, Node.js, Express.js
+- 🤖 **ML/AI:** TensorFlow, PyTorch, LangChain, Gemini Pro, OpenAI
+- 🌐 **Web Development:** HTML5, CSS3, JavaScript, ReactJS
+- 🗄️ **Databases:** MySQL, MongoDB, PostgreSQL, AstraDB, FAISS
+- ☁️ **Cloud:** AWS, GCP
+- 🛠 **Tools:** Docker, Jenkins, Git, JIRA, Postman
 
 ---
 
-## 🧠 Projects I'm Working On
+---
 
-- 🤖 **LLM-powered Chatbots** – Built using LangChain, FAISS, and custom datasets for retrieval-based response generation  
-- 🧾 **Text-to-SQL AI Tool** – Natural language to SQL conversion using Gemini Pro & Streamlit  
-- ⚙️ **Scalable Backend APIs** – Robust microservice architectures with Spring Boot and cloud-native design patterns  
+## 📚 Featured Projects
+
+| Project | Tech Stack | Description |
+|:---|:---|:---|
+| [**Lung Cancer Detector (CNN Based)**](#) | Python, TensorFlow, Tkinter | A CNN-based model with GUI for classifying lung tissue DICOM images. |
+| [**IntelliLearnMate**](#) | LangChain, Flask, Llama2 | AI-driven chatbot retrieving intelligent responses via similarity search and LLM. |
+| [**SQLGenie: Text-to-SQL Converter**](#) | Gemini Pro, Streamlit, SQLite | Natural Language to SQL query converter using Generative AI. |
+| [**Smart Application Tracker**](#) | Gemini Pro, Streamlit | Resume analyzer matching resumes to job descriptions with improvement suggestions. |
+| [**PDF AnswerBot**](#) | Java, Spring Boot, LangChain4J | Answer questions based on uploaded PDFs using vector databases and LLMs. |
+| [**QuizMaster Microservices App**](#) | Spring Boot, Eureka, API Gateway | Microservices-based quiz management application with service discovery and load balancing. |
+
+---
 
 ---
 
@@ -28,11 +60,16 @@
 - ☁️ *Google Cloud Professional ML Engineer* – *(In Progress)*  
 
 ---
+## 🌟 Let's Connect
 
-## 📫 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/neelpatel2712) • [Email](mailto:patelneel2797@gmail.com)
+- 📫 Email: [patelneel2797@gmail.com](mailto:patelneel2797@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/neelpatel2712)  
+- 💻 [Portfolio Website](https://pneel27.github.io/Portfolio-Website/index.html) 
+- 🔥 [GitHub Projects](https://github.com/pneel27)
 
 ---
+<p align="center">
+  🚀_"Engineering innovative solutions at the intersection of Software Development and Artificial Intelligence."_
+</p>
 
-🚀 Always curious, always building.
+
