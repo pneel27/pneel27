@@ -60,7 +60,7 @@ I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **C
 
 ## 🌟 Let's Connect
 
-- 📫 Email: [patelneel2797@gmail.com](mailto:patelneel2797@gmail.com)  
+- 📫 [Email](mailto:patelneel2797@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/neelpatel2712)  
 - 💻 [Portfolio Website](https://pneel27.github.io/Portfolio-Website/index.html) 
 - 🔥 [GitHub Projects](https://github.com/pneel27)
