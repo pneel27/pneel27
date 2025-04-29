@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue" />
 </p>
 
+---
 
 ## 🚀 About Me
 
@@ -37,8 +38,6 @@ I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **C
 
 ---
 
----
-
 ## 📚 Featured Projects
 
 | Project | Tech Stack | Description |
@@ -52,14 +51,13 @@ I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **C
 
 ---
 
----
-
 ## 🎓 Certifications
 
 - 🧠 *Machine Learning Specialization* – Stanford University (Coursera)  
 - ☁️ *Google Cloud Professional ML Engineer* – *(In Progress)*  
 
 ---
+
 ## 🌟 Let's Connect
 
 - 📫 Email: [patelneel2797@gmail.com](mailto:patelneel2797@gmail.com)  
@@ -68,6 +66,7 @@ I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **C
 - 🔥 [GitHub Projects](https://github.com/pneel27)
 
 ---
+
 <p align="center">
   🚀"Engineering innovative solutions at the intersection of Software Development and Artificial Intelligence."
 </p>
