@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Developer | Machine Learning Engineer  | AI Enthusiast <br/>
-  ⭐️ _"Driven by curiosity, powered by code, and inspired by innovation."_
+  ⭐️ "Driven by curiosity, powered by code, and inspired by innovation."
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Frameworks-Spring%20Boot%20|%20TensorFlow-yellow" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-blue" />
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -69,7 +69,7 @@ I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **C
 
 ---
 <p align="center">
-  🚀_"Engineering innovative solutions at the intersection of Software Development and Artificial Intelligence."_
+  🚀"Engineering innovative solutions at the intersection of Software Development and Artificial Intelligence."
 </p>
 
 
