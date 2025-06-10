@@ -42,12 +42,12 @@ I'm a passionate developer blending **Software Engineering**, **AI/ML**, and **C
 
 | Project | Tech Stack | Description |
 |:---|:---|:---|
-| [**Lung Cancer Detector (CNN Based)**](#) | Python, TensorFlow, Tkinter | A CNN-based model with GUI for classifying lung tissue DICOM images. |
-| [**IntelliLearnMate**](#) | LangChain, Flask, Llama2 | AI-driven chatbot retrieving intelligent responses via similarity search and LLM. |
-| [**SQLGenie: Text-to-SQL Converter**](#) | Gemini Pro, Streamlit, SQLite | Natural Language to SQL query converter using Generative AI. |
-| [**Resume Matcher AI**](#) | Gemini Pro, Streamlit | Resume analyzer matching resumes to job descriptions with improvement suggestions. |
-| [**PDF AnswerBot**](#) | Java, Spring Boot, LangChain4J | Answer questions based on uploaded PDFs using vector databases and LLMs. |
-| [**QuizMaster Microservices App**](#) | Spring Boot, Eureka, API Gateway | Microservices-based quiz management application with service discovery and load balancing. |
+| [**Lung Cancer Detector (CNN Based)**](https://github.com/pneel27/LungCancerDetector) | Python, TensorFlow, Tkinter | A CNN-based model with GUI for classifying lung tissue DICOM images. |
+| [**IntelliLearnMate**](https://github.com/pneel27/IntelliLearnMate) | LangChain, Flask, Llama2 | AI-driven chatbot retrieving intelligent responses via similarity search and LLM. |
+| [**SQLGenie: Text-to-SQL Converter**](https://github.com/pneel27/SQLGen) | Gemini Pro, Streamlit, SQLite | Natural Language to SQL query converter using Generative AI. |
+| [**Resume Matcher AI**](https://github.com/pneel27/Resume-Matcher-AI) | Gemini Pro, Streamlit | Resume analyzer matching resumes to job descriptions with improvement suggestions. |
+| [**PDF AnswerBot**](https://github.com/pneel27/PDF-AnswerBot) | Java, Spring Boot, LangChain4J | Answer questions based on uploaded PDFs using vector databases and LLMs. |
+| [**QuizMaster Microservices App**](https://github.com/pneel27/QuizMaster-Microservices-App) | Spring Boot, Eureka, API Gateway | Microservices-based quiz management application with service discovery and load balancing. |
 
 ---
 
